@@ -8,7 +8,7 @@ h1 {
   font-family: "SEGA LOGO FONT";
   font-weight: 200;
   color: #0ccac4;
-  padding: 10px;
+  margin: 10px;
 }
 input {
   outline: none;
