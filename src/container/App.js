@@ -32,7 +32,7 @@ class App extends Component {
       <h1 className="tc m2">Loading...</h1>
     ) : (
       <div className="tc App">
-        <h1 className="f1">RoboFriends</h1>
+        <h1 className="f2">RoboFriends</h1>
         <Searchbox handleSearch={this.handleSearch} />
         <Scroll>
           <Errorboundry>
