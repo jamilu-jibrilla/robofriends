@@ -3,7 +3,7 @@ const Scroll = (props) => {
     <div
       className="pa4"
       style={{
-        height: "470px",
+        height: "400px",
         overflowY: "scroll",
         borderTop: "1px solid black",
         borderBottom: "3px solid black",
